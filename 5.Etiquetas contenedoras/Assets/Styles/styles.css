@@ -1,0 +1,45 @@
+body{
+    background-color:cadetblue ;
+    
+
+
+}
+#container{
+    width: 600px;
+    height: auto;
+    text-align: justify;
+
+ text-shadow: 600px;
+}
+img{
+    width: 200x;
+    height: 250px;
+    border: 2px solid black;
+    image-rendering: pixelated;
+    margin-left: 500px;
+    
+    
+}
+
+h3{
+    text-align: center;
+    margin: 60px;
+}
+ul{
+    text-align: center;
+text-decoration: none;
+list-style: none;
+
+}
+nav{
+    max-width: 900px;
+    margin: auto;
+    background-color: gray;
+    font-size:  20px;
+    margin-top: 50px;
+}
+.menu-horizontal{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
